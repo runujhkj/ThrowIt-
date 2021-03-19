@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 271032aed7ed92a4a81a4822505e9779
+timeCreated: 1515600184
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: MaleFigure1
+    100002: polySurface17
+    100004: polySurface25
+    100006: polySurface30
+    100008: //RootNode
+    100010: polySurface32
+    100012: Left_Shoe
+    100014: polySurface35
+    100016: Right_Shoe
+    100018: Body
+    100020: Helmet
+    100022: LeftEyeball
+    100024: RightEyeball
+    100026: group1
+    100028: pasted__Head
+    100030: Head
+    100032: Helmet_Ext_Helmet_US_Football_Player
+    100034: Helmet_US_Football_Player
+    100036: US_Football_Player_Body
+    100038: US_Football_Player_Head
+    100040: US_Football_Player_LeftEyeball
+    100042: US_Football_Player_RightEyeball
+    100044: Head 1
+    100046: Head_Geo
+    100048: Lt_ Calf
+    100050: Lt_ Finger01_Root
+    100052: Lt_ Forearm
+    100054: Lt_ Hand
+    100056: Lt_ ThumbRoot
+    100058: Lt_Clavicle
+    100060: Lt_Finger01_End
+    100062: Lt_Finger02_End
+    100064: Lt_Finger02_Root
+    100066: Lt_Foot
+    100068: Lt_Thigh
+    100070: Lt_Thumb_End
+    100072: Lt_Toe_End
+    100074: Lt_Toe_Root
+    100076: Lt_UpperArm
+    100078: Neck
+    100080: Pelvis
+    100082: Root
+    100084: Rt_ Foot
+    100086: Rt_ UpperArm
+    100088: Rt_Calf
+    100090: Rt_Clavicle
+    100092: Rt_Finger01_End
+    100094: Rt_Finger01_Root
+    100096: Rt_Finger02_End
+    100098: Rt_Finger02_Root
+    100100: Rt_Forearm
+    100102: Rt_Hand
+    100104: Rt_Thigh
+    100106: Rt_Thumb_End
+    100108: Rt_ThumbRoot
+    100110: Rt_Toe_End
+    100112: Rt_Toe_Root
+    100114: Spine01
+    100116: Spine02
+    100118: Spine03
+    100120: Left_Eyeball
+    100122: Head_Obj
+    400000: MaleFigure1
+    400002: polySurface17
+    400004: polySurface25
+    400006: polySurface30
+    400008: //RootNode
+    400010: polySurface32
+    400012: Left_Shoe
+    400014: polySurface35
+    400016: Right_Shoe
+    400018: Body
+    400020: Helmet
+    400022: LeftEyeball
+    400024: RightEyeball
+    400026: group1
+    400028: pasted__Head
+    400030: Head
+    400032: Helmet_Ext_Helmet_US_Football_Player
+    400034: Helmet_US_Football_Player
+    400036: US_Football_Player_Body
+    400038: US_Football_Player_Head
+    400040: US_Football_Player_LeftEyeball
+    400042: US_Football_Player_RightEyeball
+    400044: Head 1
+    400046: Head_Geo
+    400048: Lt_ Calf
+    400050: Lt_ Finger01_Root
+    400052: Lt_ Forearm
+    400054: Lt_ Hand
+    400056: Lt_ ThumbRoot
+    400058: Lt_Clavicle
+    400060: Lt_Finger01_End
+    400062: Lt_Finger02_End
+    400064: Lt_Finger02_Root
+    400066: Lt_Foot
+    400068: Lt_Thigh
+    400070: Lt_Thumb_End
+    400072: Lt_Toe_End
+    400074: Lt_Toe_Root
+    400076: Lt_UpperArm
+    400078: Neck
+    400080: Pelvis
+    400082: Root
+    400084: Rt_ Foot
+    400086: Rt_ UpperArm
+    400088: Rt_Calf
+    400090: Rt_Clavicle
+    400092: Rt_Finger01_End
+    400094: Rt_Finger01_Root
+    400096: Rt_Finger02_End
+    400098: Rt_Finger02_Root
+    400100: Rt_Forearm
+    400102: Rt_Hand
+    400104: Rt_Thigh
+    400106: Rt_Thumb_End
+    400108: Rt_ThumbRoot
+    400110: Rt_Toe_End
+    400112: Rt_Toe_Root
+    400114: Spine01
+    400116: Spine02
+    400118: Spine03
+    400120: Left_Eyeball
+    400122: Head_Obj
+    2300000: MaleFigure1
+    2300002: polySurface17
+    2300004: polySurface25
+    2300006: polySurface30
+    2300008: polySurface32
+    2300010: Left_Shoe
+    2300012: polySurface35
+    2300014: Right_Shoe
+    2300016: Body
+    2300018: Helmet
+    2300020: LeftEyeball
+    2300022: RightEyeball
+    2300024: pasted__Head
+    2300026: Head
+    2300028: Helmet_Ext_Helmet_US_Football_Player
+    2300030: Helmet_US_Football_Player
+    2300032: US_Football_Player_Body
+    2300034: US_Football_Player_Head
+    2300036: US_Football_Player_LeftEyeball
+    2300038: US_Football_Player_RightEyeball
+    2300040: Head 1
+    2300042: Left_Eyeball
+    3300000: MaleFigure1
+    3300002: polySurface17
+    3300004: polySurface25
+    3300006: polySurface30
+    3300008: polySurface32
+    3300010: Left_Shoe
+    3300012: polySurface35
+    3300014: Right_Shoe
+    3300016: Body
+    3300018: Helmet
+    3300020: LeftEyeball
+    3300022: RightEyeball
+    3300024: pasted__Head
+    3300026: Head
+    3300028: Helmet_Ext_Helmet_US_Football_Player
+    3300030: Helmet_US_Football_Player
+    3300032: US_Football_Player_Body
+    3300034: US_Football_Player_Head
+    3300036: US_Football_Player_LeftEyeball
+    3300038: US_Football_Player_RightEyeball
+    3300040: Head 1
+    3300042: Left_Eyeball
+    4300000: polySurface17
+    4300002: polySurface25
+    4300004: polySurface30
+    4300006: MaleFigure1
+    4300008: polySurface32
+    4300010: polySurface35
+    4300012: Right_Shoe
+    4300014: Left_Shoe
+    4300016: Helmet
+    4300018: Body
+    4300020: RightEyeball
+    4300022: LeftEyeball
+    4300024: pasted__Head
+    4300026: Head
+    4300028: Helmet_Ext_Helmet_US_Football_Player
+    4300030: Helmet_US_Football_Player
+    4300032: US_Football_Player_Head
+    4300034: US_Football_Player_LeftEyeball
+    4300036: US_Football_Player_RightEyeball
+    4300038: US_Football_Player_Body
+    4300040: Left_Eyeball
+    4300042: Head_Obj
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    13700002: Head
+    13700004: Head_Obj
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Head_Geo
+        weight: 1
+      - path: Head_Geo/Head
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Pelvis
+        weight: 1
+      - path: Root/Pelvis/Spine01
+        weight: 1
+      - path: Root/Pelvis/Spine01/Lt_Thigh
+        weight: 1
+      - path: Root/Pelvis/Spine01/Lt_Thigh/Lt_ Calf
+        weight: 1
+      - path: Root/Pelvis/Spine01/Lt_Thigh/Lt_ Calf/Lt_Foot
+        weight: 1
+      - path: Root/Pelvis/Spine01/Lt_Thigh/Lt_ Calf/Lt_Foot/Lt_Toe_Root
+        weight: 1
+      - path: Root/Pelvis/Spine01/Lt_Thigh/Lt_ Calf/Lt_Foot/Lt_Toe_Root/Lt_Toe_End
+        weight: 1
+      - path: Root/Pelvis/Spine01/Rt_Thigh
+        weight: 1
+      - path: Root/Pelvis/Spine01/Rt_Thigh/Rt_Calf
+        weight: 1
+      - path: Root/Pelvis/Spine01/Rt_Thigh/Rt_Calf/Rt_ Foot
+        weight: 1
+      - path: Root/Pelvis/Spine01/Rt_Thigh/Rt_Calf/Rt_ Foot/Rt_Toe_Root
+        weight: 1
+      - path: Root/Pelvis/Spine01/Rt_Thigh/Rt_Calf/Rt_ Foot/Rt_Toe_Root/Rt_Toe_End
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Head 1
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Head 1/Helmet
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Head 1/LeftEyeball
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Head 1/RightEyeball
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Lt_Clavicle
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Lt_Clavicle/Lt_UpperArm
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Lt_Clavicle/Lt_UpperArm/Lt_
+          Forearm
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Lt_Clavicle/Lt_UpperArm/Lt_
+          Forearm/Lt_ Hand
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Lt_Clavicle/Lt_UpperArm/Lt_
+          Forearm/Lt_ Hand/Lt_ Finger01_Root
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Lt_Clavicle/Lt_UpperArm/Lt_
+          Forearm/Lt_ Hand/Lt_ Finger01_Root/Lt_Finger01_End
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Lt_Clavicle/Lt_UpperArm/Lt_
+          Forearm/Lt_ Hand/Lt_ ThumbRoot
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Lt_Clavicle/Lt_UpperArm/Lt_
+          Forearm/Lt_ Hand/Lt_ ThumbRoot/Lt_Thumb_End
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Lt_Clavicle/Lt_UpperArm/Lt_
+          Forearm/Lt_ Hand/Lt_Finger02_Root
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Lt_Clavicle/Lt_UpperArm/Lt_
+          Forearm/Lt_ Hand/Lt_Finger02_Root/Lt_Finger02_End
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Rt_Clavicle
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Rt_Clavicle/Rt_ UpperArm
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Rt_Clavicle/Rt_ UpperArm/Rt_Forearm
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Rt_Clavicle/Rt_ UpperArm/Rt_Forearm/Rt_Hand
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Rt_Clavicle/Rt_ UpperArm/Rt_Forearm/Rt_Hand/Rt_Finger01_Root
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Rt_Clavicle/Rt_ UpperArm/Rt_Forearm/Rt_Hand/Rt_Finger01_Root/Rt_Finger01_End
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Rt_Clavicle/Rt_ UpperArm/Rt_Forearm/Rt_Hand/Rt_Finger02_Root
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Rt_Clavicle/Rt_ UpperArm/Rt_Forearm/Rt_Hand/Rt_Finger02_Root/Rt_Finger02_End
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Rt_Clavicle/Rt_ UpperArm/Rt_Forearm/Rt_Hand/Rt_ThumbRoot
+        weight: 1
+      - path: Root/Pelvis/Spine01/Spine02/Spine03/Neck/Rt_Clavicle/Rt_ UpperArm/Rt_Forearm/Rt_Hand/Rt_ThumbRoot/Rt_Thumb_End
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

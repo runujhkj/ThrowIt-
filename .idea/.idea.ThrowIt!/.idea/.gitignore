@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.ThrowIt!.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Unity\GameDesign\Game3\ThrowIt!\.idea\.idea.ThrowIt!\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
